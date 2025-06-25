@@ -26,7 +26,7 @@ format:
     self-contained: true
     controls: true
     transition: fade
-    theme: solarized
+    theme: league
     incremental: false
     code-line-numbers: false
 ---
