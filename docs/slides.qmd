@@ -4,7 +4,8 @@ title-slide-attributes:
   data-background-image: https://www.dropbox.com/scl/fi/o007eltevsum30hq7nurg/mcnair.jpg?rlkey=bv3ircgq8ea877siqo9qt2k5x&dl=1
   data-background-position: top
   data-background-opacity: "1.0"
-
+date: September 6, 2025
+author: <b>Directed by Kerry Back<br>Rice University<br>https://workshop.kerryback.com</b>
 execute:
   echo: false
   jupyter: python3
