@@ -1,7 +1,7 @@
 ---
 title: "JGSB Python Workshop"
 title-slide-attributes:
-  data-background-image: https://www.dropbox.com/scl/fi/wdrnuojbnjx6lgfekrx85/mcnair.jpg?rlkey=wcbaw5au7vh5vt1g5d5x7fw8f&dl=1
+  data-background-image: https://www.dropbox.com/scl/fi/o007eltevsum30hq7nurg/mcnair.jpg?rlkey=bv3ircgq8ea877siqo9qt2k5x&dl=1
   data-background-position: top
   data-background-opacity: "1.0"
   style: "color: white; text-shadow: 2px 2px 4px rgba(0,0,0,0.7);"

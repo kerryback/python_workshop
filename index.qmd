@@ -1,6 +1,6 @@
 <style>
 body {
-  background-image: url('./mcnair.jpg');
+  background-image: url('mcnair.jpg');
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
