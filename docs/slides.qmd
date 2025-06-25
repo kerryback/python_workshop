@@ -1,0 +1,68 @@
+---
+title: "JGSB Python Workshop"
+title-slide-attributes:
+  data-background-image: https://www.dropbox.com/scl/fi/wdrnuojbnjx6lgfekrx85/mcnair.jpg?rlkey=wcbaw5au7vh5vt1g5d5x7fw8f&dl=1
+  data-background-position: top
+  data-background-opacity: "1.0"
+  style: "color: white; text-shadow: 2px 2px 4px rgba(0,0,0,0.7);"
+date: September 6, 2025
+author: <b>Directed by Kerry Back<br>Rice University<br>https://workshop.kerryback.com</b>
+format:
+  revealjs:
+    incremental: true
+    theme: league
+    transition: zoom
+    background-transition: fade
+    slide-number: true
+    chalkboard: true
+    preview-links: auto
+   
+---
+## Opening the Slides
+
+- This slide deck is short, but there are some links in it
+- To open the deck on your laptop, go to https://workshop.kerryback.com 
+
+## Mentis
+
+
+## Why Python?
+
+
+- Data analysis, including machine learning 
+- Automate things 
+- Example from MGMT 675: [Cost of Equity App](https://costofequity.koyeb.app/) 
+- The app is written entirely in python. 
+- [**All of the python code was written by AI.**]{style="color: tomato;"} 
+
+
+
+
+## Get Started
+
+- You need a Google account.
+- You need to [install Google Drive](https://support.google.com/drive/answer/10838124?hl=en#d4d_install)  
+- Drive should appear as a folder on your laptop.  In Windows Explorer, it is under `This PC`
+- Create a new folder `This PC\Google Drive\My Drive\Workshop`
+- Download this [zip file]() to `This PC\Google Drive\My Drive`.
+- Extract all of the files to `This PC\Google Drive\My Drive\Workshop`
+- Respond to the Menti when you are ready to move on or if you are stuck.
+
+## Open Colab
+
+- Go to [https://colab.research.google.com](https://colab.research.google.com)
+- You should be looking at an **Open Notebook** screen
+- Choose **Google Drive**
+- Find and open **Part1_Colab.ipynb**
+- Respond to the Menti when you are ready to move on or if you are stuck
+
+## Plan for the Workshop
+
+- This is the next-to-last slide
+- We will work through notebooks together.  
+- Respond to the Menti if you get stuck or when you finish a notebook
+- Each notebook suggests things you can do while waiting for others to finish 
+- When everyone is finished, we will discuss and then move on together to the next notebook
+
+## Fallback for Google Drive
+
