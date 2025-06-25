@@ -1,9 +1,9 @@
 ---
-title: MGMT 675<br><br><br><br>AI-Assisted Financial Analysis
+title: JGSB PYTHON WORKSHOP
 title-slide-attributes:
   data-background-image: https://www.dropbox.com/scl/fi/o007eltevsum30hq7nurg/mcnair.jpg?rlkey=bv3ircgq8ea877siqo9qt2k5x&dl=1
   data-background-position: top
-  data-background-opacity: "0.4"
+  data-background-opacity: "1.0"
 include-in-header:
   - text: |
       <style>
