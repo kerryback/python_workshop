@@ -5,7 +5,7 @@ title-slide-attributes:
   data-background-position: top
   data-background-opacity: "1.0"
 date: September 6, 2025
-author: <b>Directed by Kerry Back<br>Rice University<br>https://workshop.kerryback.com</b>
+author: <b>Directed by Kerry Back<br>https://workshop.kerryback.com<br>Rice University</b>
 execute:
   echo: false
   jupyter: python3
