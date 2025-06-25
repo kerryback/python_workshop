@@ -1,0 +1,38 @@
+---
+title: ""
+format: html
+---
+
+<style>
+body {
+  background-image: url('./mcnair.jpg');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+  color: white;
+  font-weight: bold;
+  font-size: 2em;
+}
+
+h1 {
+  color: white;
+  font-weight: bold;
+  font-size: 2em;
+  text-align: center;
+}
+
+a {
+  color: white !important;
+  font-weight: bold;
+}
+</style>
+
+# JGSB Python Workshop
+
+- [Slides](slides.html)
+- [Zip File]()
+- Alternative to zip file:
+  - [Part 1: Colab](https://colab.research.google.com/notebooks/basic_features_overview.ipynb)
+  - [Part 2: Objects](https://colab.research.google.com/notebooks/basic_features_overview.ipynb)
+
