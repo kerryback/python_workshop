@@ -18,10 +18,11 @@ format:
     preview-links: auto
    
 ---
-## Opening the Slides
+## Workshop Materials
 
-- This slide deck is short, but there are some links in it
-- To open the deck on your laptop, go to https://workshop.kerryback.com 
+- Go to https://workshop.kerryback.com 
+- Open the slide deck so you can access the links in it 
+- Zip file will be discussed in a moment
 
 ## Mentis
 
@@ -42,10 +43,10 @@ format:
 
 - You need a Google account.
 - You need to [install Google Drive](https://support.google.com/drive/answer/10838124?hl=en#d4d_install)  
-- Drive should appear as a folder on your laptop.  In Windows Explorer, it is under `This PC`
-- Create a new folder `This PC\Google Drive\My Drive\Workshop`
-- Download this [zip file]() to `This PC\Google Drive\My Drive`.
-- Extract all of the files to `This PC\Google Drive\My Drive\Workshop`
+- Drive should appear as a folder on your laptop.  In Windows Explorer, it is under **This PC**
+- Create a new folder **This PC\Google Drive\My Drive\Workshop**
+- Download the zip file linked on [workshop.kerryback.com](https://workshop.kerryback.com) to **This PC\Google Drive\My Drive**.
+- Extract all of the files to **This PC\Google Drive\My Drive\Workshop**
 - Respond to the Menti when you are ready to move on or if you are stuck.
 
 ## Open Colab
@@ -54,15 +55,16 @@ format:
 - You should be looking at an **Open Notebook** screen
 - Choose **Google Drive**
 - Find and open **Part1_Colab.ipynb**
+- If for any reason you are unable to use Google Drive, open **Part1 Colab** at [workshop.kerryback.com](https://workshop.kerryback.com)
 - Respond to the Menti when you are ready to move on or if you are stuck
 
 ## Plan for the Workshop
 
-- This is the next-to-last slide
-- We will work through notebooks together.  
+- This is the last slide
+- We will work through notebooks together 
 - Respond to the Menti if you get stuck or when you finish a notebook
 - Each notebook suggests things you can do while waiting for others to finish 
 - When everyone is finished, we will discuss and then move on together to the next notebook
 
-## Fallback for Google Drive
+
 
