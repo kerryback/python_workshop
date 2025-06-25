@@ -1,23 +1,36 @@
 ---
-title: "JGSB Python Workshop"
+title: MGMT 675<br><br><br><br>AI-Assisted Financial Analysis
 title-slide-attributes:
-  data-background-image: https://www.dropbox.com/scl/fi/o007eltevsum30hq7nurg/mcnair.jpg?rlkey=bv3ircgq8ea877siqo9qt2k5x&dl=1
+  data-background-image: https://www.dropbox.com/scl/fi/jerhfe2cad1jtdvapik71/gpt_image.jpg?rlkey=2dnc3qyozkm24tcl2pzjccxka&dl=1
   data-background-position: top
-  data-background-opacity: "1.0"
-  style: "color: white; text-shadow: 2px 2px 4px rgba(0,0,0,0.7);"
-date: September 6, 2025
-author: <b>Directed by Kerry Back<br>Rice University<br>https://workshop.kerryback.com</b>
-format:
+  data-background-opacity: "0.4"
+include-in-header:
+  - text: |
+      <style>
+      #title-slide .title {
+        color: #00205B;
+      }
+      </style>
+execute:
+  echo: false
+  jupyter: python3
+  cache: true
+format: 
   revealjs:
-    incremental: true
-    theme: league
-    transition: zoom
-    background-transition: fade
+    highlight-style: monokai
+    code-fold: true
+    code-copy: hover
+    scrollable: true
     slide-number: true
-    chalkboard: true
-    preview-links: auto
-   
+    preview-links: true
+    self-contained: true
+    controls: true
+    transition: fade
+    theme: solarized
+    incremental: false
+    code-line-numbers: false
 ---
+
 ## Workshop Materials
 
 - Go to https://workshop.kerryback.com 
