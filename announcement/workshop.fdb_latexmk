@@ -1,7 +1,7 @@
 # Fdb version 4
-["pdflatex"] 1750880547.02567 "c:/Users/kerry/repos/python_workshop/announcement/workshop.tex" "workshop.pdf" "workshop" 1750880549.96265 0
+["pdflatex"] 1750881396.87918 "c:/Users/kerry/repos/python_workshop/announcement/workshop.tex" "workshop.pdf" "workshop" 1750881399.73614 0
   "RiceBusiness-transparent-logo-sm.png" 1746537584 109172 18d8f10f81e2f4f8616c940a2a023615 ""
-  "c:/Users/kerry/repos/python_workshop/announcement/workshop.tex" 1750880545 3296 0994182c11825ddc71c5484031174b9f ""
+  "c:/Users/kerry/repos/python_workshop/announcement/workshop.tex" 1750881395 3317 5b234b5c46e492afb0e0e69fa1ef76cc ""
   "c:/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1730954190 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "c:/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1730956099 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "c:/texlive/2024/texmf-dist/fonts/tfm/jknappen/ec/tcrm1095.tfm" 1730955275 1536 02c06700a42be0f5a28664c7273f82e7 ""
@@ -73,9 +73,9 @@
   "c:/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1730963244 5521136 47e49b84c41d5ab3414c7e2d0ef6eb2b ""
   "c:/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt" 1730963627 3342990 7625ad9693cba0547a55954de6142f20 ""
   "c:/texlive/2024/texmf.cnf" 1730963216 713 e69b156964470283e0530f5060668171 ""
-  "workshop.aux" 1750880549 229 7a3f394839c6c2874541b34401e1ac7b "pdflatex"
-  "workshop.out" 1750880549 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "workshop.tex" 1750880545 3296 0994182c11825ddc71c5484031174b9f ""
+  "workshop.aux" 1750881399 229 7a3f394839c6c2874541b34401e1ac7b "pdflatex"
+  "workshop.out" 1750881398 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "workshop.tex" 1750881395 3317 5b234b5c46e492afb0e0e69fa1ef76cc ""
   (generated)
   "workshop.aux"
   "workshop.log"
