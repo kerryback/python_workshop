@@ -83,14 +83,8 @@ Most activities can be completed in 5-10 minutes.
 
 ### Jupyter Notebooks with Practice Problems
 
-- [Ryan Orsinger's 101 Exercises](https://colab.research.com/github/ryanorsinger/101-exercises/blob/main/101-exercises.ipynb)
-- [Ryan Orsinger's Learn to Code Python Notebooks](https://github.com/ryanorsinger)
-  - [First](https://colab.research.google.com/github/ryanorsinger/learn-to-code-python-workshop/blob/main/first_notebook.ipynb)
-  - [Second](https://colab.research.google.com/github/ryanorsinger/learn-to-code-python-workshop/blob/main/second_notebook.ipynb)
-  - [Third](https://colab.research.google.com/github/ryanorsinger/learn-to-code-python-workshop/blob/main/third_notebook.ipynb)
-  - [Fourth](https://colab.research.google.com/github/ryanorsinger/learn-to-code-python-workshop/blob/main/fourth_notebook.ipynb)
-  - [Fifth](https://colab.research.google.com/github/ryanorsinger/learn-to-code-python-workshop/blob/main/fifth_notebook.ipynb)
-
+- [Learn to Code Python](https://colab.research.google.com/github/ryanorsinger/learn-to-code-python-workshop/blob/main/intro-to-python.ipynb)
+- [101 Exercises](https://colab.research.google.com/github/ryanorsinger/101-exercises/blob/main/101-exercises.ipynb)
 - [Python Programming Exercises (100+ exercises)](https://colab.research.google.com/github/zhiwehu/Python-programming-exercises/blob/master/)
 - [100 Days of Python Course](https://colab.research.google.com/github/talkpython/100daysofcode-with-python-course/blob/master/)
 - [100+ Python Programming Exercises Extended](https://colab.research.google.com/github/darkprinx/100-plus-Python-programming-exercises-extended/blob/master/)

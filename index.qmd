@@ -27,14 +27,19 @@ a {
   grid-template-columns: 1fr 1fr;
   gap: 20px;
 }
+
+.two-columns li {
+  font-size: 0.9em;
+  font-style: italic;
+}
 </style>
 
-# JGSB PYTHON WORKSHOP
+# JGSB Python Workshop<br>September 6, 2025
 
-- <a href="slides.html" target="_blank">SLIDES</a>
-- <a href="" target="_blank">ZIP FILE</a>
+- <a href="slides.html" target="_blank">Slides</a>
+- <a href="" target="_blank">Zip File for Google Drive</a>
 
-<div style="text-align: center;">ALTERNATIVE TO ZIP FILE<br><br></div>
+<div style="text-align: center;">Alternative to Google Drive<br><br></div>
 
 ::: {.two-columns}
 <div>
