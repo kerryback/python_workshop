@@ -41,9 +41,12 @@ a {
 
 - <a href="slides.html" target="_blank">Slides</a>
 - <a href="" target="_blank">Zip File for Google Drive</a>
+- <a href="https://www.menti.com/alsxwze6wshx" target="_blank">Menti</a>
+
 </div>
 
 <br>
+
 
 <div style="margin-top: 40px; padding: 20px; background-color: rgba(0,0,0,0.3); border-radius: 10px;">
 <div style="text-align: center;">🐍 ALTERNATIVE TO GOOGLE DRIVE 🐍<br></div>
