@@ -36,13 +36,16 @@ a {
 
 # JGSB Python Workshop<br>September 6, 2025
 <br>
+<div style="margin-top: 40px; padding: 20px; background-color: rgba(0,0,0,0.4); border-radius: 10px;">
 <div style="text-align: center;">🐍 PRIMARY RESOURCES 🐍<br></div>
 
 - <a href="slides.html" target="_blank">Slides</a>
 - <a href="" target="_blank">Zip File for Google Drive</a>
+</div>
 
 <br>
 
+<div style="margin-top: 40px; padding: 20px; background-color: rgba(0,0,0,0.4); border-radius: 10px;">
 <div style="text-align: center;">🐍 ALTERNATIVE TO GOOGLE DRIVE 🐍<br></div>
 
 ::: {.two-columns}
@@ -66,7 +69,9 @@ a {
 - <a href="https://colab.research.google.com/github/kerryback/workshop/blob/main/notebooks/part12_machine_learning.ipynb" target="_blank">Part 12: Machine Learning</a>
 
 </div>
+
 :::
+</div>
 
 <div style="text-align: center; margin-top: 40px; padding: 20px; background-color: rgba(0,0,0,0.4); border-radius: 10px;">
 🐍 ADDITIONAL PYTHON RESOURCES 🐍<br>
