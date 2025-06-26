@@ -35,11 +35,15 @@ a {
 </style>
 
 # JGSB Python Workshop<br>September 6, 2025
+<br>
+<div style="text-align: center;">PRIMARY RESOURCES<br><br></div>
 
 - <a href="slides.html" target="_blank">Slides</a>
 - <a href="" target="_blank">Zip File for Google Drive</a>
 
-<div style="text-align: center;">Alternative to Google Drive<br><br></div>
+<br>
+
+<div style="text-align: center;">ALTERNATIVE TO GOOGLE DRIVE<br><br></div>
 
 ::: {.two-columns}
 <div>
@@ -65,7 +69,7 @@ a {
 :::
 
 <div style="text-align: center; margin-top: 40px; padding: 20px; background-color: rgba(0,0,0,0.4); border-radius: 10px;">
-🐍 <a href="resources.html" target="_blank">ADDITIONAL PYTHON RESOURCES</a> 🐍<br>
+🐍 <a href="resources.html" target="_blank">LINK TO ADDITIONAL RESOURCES</a> 🐍<br>
 <span style="font-size: 0.9em; font-style: italic;">Practice exercises and learning materials for self-paced exploration</span>
 </div>
 

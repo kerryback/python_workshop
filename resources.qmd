@@ -76,7 +76,7 @@ li {
 
 <div class="section-description">
 Explore these resources while waiting for others to catch up!<br>
-Most activities can be completed in 5-10 minutes.
+Many activities can be completed in just a few minutes.
 </div>
 
 ## 📚 Python Exercise Collections
