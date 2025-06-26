@@ -32,7 +32,7 @@ format:
 - Open the slide deck so you can access the links in it 
 - Zip file will be discussed in a moment
 
-## Mentis
+## Working/Stuck/Ready polls
 
 
 ## Why Python?
@@ -55,7 +55,7 @@ format:
 - Create a new folder **This PC\Google Drive\My Drive\Workshop**
 - Download the zip file linked on [workshop.kerryback.com](https://workshop.kerryback.com) to **This PC\Google Drive\My Drive**.
 - Extract all of the files to **This PC\Google Drive\My Drive\Workshop**
-- Respond to the Menti when you are ready to move on or if you are stuck.
+- Respond to the Working/Stuck/Ready poll when you are ready to move on or if you are stuck.
 
 ## Open Colab
 
@@ -64,13 +64,13 @@ format:
 - Choose **Google Drive**
 - Find and open **Part1_Colab.ipynb**
 - If for any reason you are unable to use Google Drive, open **Part1 Colab** at [workshop.kerryback.com](https://workshop.kerryback.com)
-- Respond to the Menti when you are ready to move on or if you are stuck
+- Respond to the Working/Stuck/Ready poll when you are ready to move on or if you are stuck
 
 ## Plan for the Workshop
 
 - This is the last slide
 - We will work through notebooks together 
-- Respond to the Menti if you get stuck or when you finish a notebook
+- Respond to the Working/Stuck/Ready poll if you get stuck or when you finish a notebook
 - Each notebook suggests things you can do while waiting for others to finish 
 - When everyone is finished, we will discuss and then move on together to the next notebook
 
