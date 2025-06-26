@@ -4,6 +4,48 @@
     "href": "index.html",
     "title": "JGSB PYTHON WORKSHOP",
     "section": "",
-    "text": "JGSB PYTHON WORKSHOP\n\nSLIDES\nZIP FILE\n\n\nALTERNATIVE TO ZIP FILE\n\n\n\n\nPart 1: Colab\nPart 2: Objects\nPart 3: Lists and Dictionaries\nPart 4: Flow Control\nPart 5: Functions\nPart 6: Libraries\n\n\n\n\nPart 7: Data Tables\nPart 8: Statistics\nPart 9: Visualization\nPart 10: Simulation\nPart 11: Goal Seek\nPart 12: Machine Learning"
+    "text": "JGSB PYTHON WORKSHOP\n\nSLIDES\nZIP FILE\n\n\nALTERNATIVE TO ZIP FILE\n\n\n\n\nPart 1: Colab\nPart 2: Objects\nPart 3: Lists and Dictionaries\nPart 4: Flow Control\nPart 5: Functions\nPart 6: Libraries\n\n\n\n\nPart 7: Data Tables\nPart 8: Statistics\nPart 9: Visualization\nPart 10: Simulation\nPart 11: Goal Seek\nPart 12: Machine Learning\n\n\n\n\n🐍 ADDITIONAL PYTHON RESOURCES 🐍 Practice exercises and learning materials for self-paced exploration"
+  },
+  {
+    "objectID": "resources.html",
+    "href": "resources.html",
+    "title": "Python Resources",
+    "section": "",
+    "text": "Explore these resources while waiting for others to catch up! Most activities can be completed in 5-10 minutes."
+  },
+  {
+    "objectID": "resources.html#python-exercise-collections",
+    "href": "resources.html#python-exercise-collections",
+    "title": "Python Resources",
+    "section": "📚 Python Exercise Collections",
+    "text": "📚 Python Exercise Collections\n\nJupyter Notebooks with Practice Problems\n\nRyan Orsinger’s 101 Exercises\nRyan Orsinger’s Learn to Code Python Notebooks\n\nFirst\nSecond\nThird\nFourth\nFifth\n\nPython Programming Exercises (100+ exercises)\n100 Days of Python Course\n100+ Python Programming Exercises Extended\nLearn Python 3 Interactive Notebooks\nTiny Python Projects\nPractical Python Programming Course"
+  },
+  {
+    "objectID": "resources.html#quick-coding-challenges",
+    "href": "resources.html#quick-coding-challenges",
+    "title": "Python Resources",
+    "section": "🧠 Quick Coding Challenges",
+    "text": "🧠 Quick Coding Challenges\n\nOnline Practice Platforms\n\nHackerRank Python Domain - Basic problems like “Hello World”, simple math, string manipulation\nCodewars 8 kyu Python Problems - Easiest level problems\nCodewars 7 kyu Python Problems - Slightly more challenging\nLeetCode Easy Python Problems - Filter by Python and “Easy” difficulty"
+  },
+  {
+    "objectID": "resources.html#interactive-learning-tools",
+    "href": "resources.html#interactive-learning-tools",
+    "title": "Python Resources",
+    "section": "🔍 Interactive Learning Tools",
+    "text": "🔍 Interactive Learning Tools\n\nVisualization and Quick References\n\nPython Tutor - Visualize code execution step-by-step\nPython Cheat Sheet - Concise syntax reference\nReal Python’s Python Tricks - Short, digestible articles"
+  },
+  {
+    "objectID": "resources.html#essential-reading",
+    "href": "resources.html#essential-reading",
+    "title": "Python Resources",
+    "section": "📖 Essential Reading",
+    "text": "📖 Essential Reading\n\nComprehensive Resources\n\nPython for Data Analysis (3rd Edition) by Wes McKinney - The definitive guide to data manipulation with Python, pandas, and NumPy\nAutomate the Boring Stuff with Python - Practical programming for total beginners\nA Gallery of Interesting Jupyter Notebooks - Curated collection of educational notebooks"
+  },
+  {
+    "objectID": "resources.html#fun-visual-projects",
+    "href": "resources.html#fun-visual-projects",
+    "title": "Python Resources",
+    "section": "🎨 Fun & Visual Projects",
+    "text": "🎨 Fun & Visual Projects\n\nCreative Coding\n\nPython Graph Gallery - Simple plotting examples with matplotlib\nTurtle Graphics Examples - Quick, visual programming with immediate results\n\n\n\nHappy Learning! 🐍✨"
   }
 ]

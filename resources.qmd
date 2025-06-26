@@ -1,0 +1,133 @@
+---
+title: "Python Resources"
+---
+
+<style>
+body {
+  background-image: url('mcnair.jpg');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+  color: white;
+  font-weight: bold;
+  font-size: 1.2em;
+  line-height: 1.6;
+}
+
+h1, h2, h3 {
+  color: white;
+  font-weight: bold;
+  text-align: center;
+  text-shadow: 2px 2px 4px rgba(0,0,0,0.8);
+}
+
+h1 {
+  font-size: 2.5em;
+  margin-bottom: 30px;
+}
+
+h2 {
+  font-size: 1.8em;
+  margin-top: 40px;
+  margin-bottom: 20px;
+  border-bottom: 2px solid white;
+  padding-bottom: 10px;
+}
+
+h3 {
+  font-size: 1.4em;
+  margin-top: 30px;
+  margin-bottom: 15px;
+}
+
+a {
+  color: #87CEEB !important;
+  font-weight: bold;
+  text-decoration: none;
+  text-shadow: 1px 1px 2px rgba(0,0,0,0.8);
+}
+
+a:hover {
+  color: #FFD700 !important;
+  text-decoration: underline;
+}
+
+ul {
+  background-color: rgba(0,0,0,0.3);
+  padding: 20px;
+  border-radius: 10px;
+  margin: 20px 0;
+}
+
+li {
+  margin: 10px 0;
+  text-shadow: 1px 1px 2px rgba(0,0,0,0.8);
+}
+
+.section-description {
+  font-style: italic;
+  text-align: center;
+  margin-bottom: 20px;
+  font-size: 1.1em;
+  text-shadow: 1px 1px 2px rgba(0,0,0,0.8);
+}
+</style>
+
+<div class="section-description">
+Explore these resources while waiting for others to catch up!<br>
+Most activities can be completed in 5-10 minutes.
+</div>
+
+## 📚 Python Exercise Collections
+
+### Jupyter Notebooks with Practice Problems
+
+- [Ryan Orsinger's 101 Exercises](https://colab.research.com/github/ryanorsinger/101-exercises/blob/main/101-exercises.ipynb)
+- [Ryan Orsinger's Learn to Code Python Notebooks](https://github.com/ryanorsinger)
+  - [First](https://colab.research.google.com/github/ryanorsinger/learn-to-code-python-workshop/blob/main/first_notebook.ipynb)
+  - [Second](https://colab.research.google.com/github/ryanorsinger/learn-to-code-python-workshop/blob/main/second_notebook.ipynb)
+  - [Third](https://colab.research.google.com/github/ryanorsinger/learn-to-code-python-workshop/blob/main/third_notebook.ipynb)
+  - [Fourth](https://colab.research.google.com/github/ryanorsinger/learn-to-code-python-workshop/blob/main/fourth_notebook.ipynb)
+  - [Fifth](https://colab.research.google.com/github/ryanorsinger/learn-to-code-python-workshop/blob/main/fifth_notebook.ipynb)
+
+- [Python Programming Exercises (100+ exercises)](https://colab.research.google.com/github/zhiwehu/Python-programming-exercises/blob/master/)
+- [100 Days of Python Course](https://colab.research.google.com/github/talkpython/100daysofcode-with-python-course/blob/master/)
+- [100+ Python Programming Exercises Extended](https://colab.research.google.com/github/darkprinx/100-plus-Python-programming-exercises-extended/blob/master/)
+- [Learn Python 3 Interactive Notebooks](https://colab.research.google.com/github/jerry-git/learn-python3/blob/master/)
+- [Tiny Python Projects](https://colab.research.google.com/github/kyclark/tiny_python_projects/blob/master/)
+- [Practical Python Programming Course](https://colab.research.google.com/github/dabeaz-course/practical-python/blob/master/)
+
+## 🧠 Quick Coding Challenges
+
+### Online Practice Platforms
+- [HackerRank Python Domain](https://www.hackerrank.com/domains/python) - Basic problems like "Hello World", simple math, string manipulation
+- [Codewars 8 kyu Python Problems](https://www.codewars.com/kata/search/python?q=&r%5B%5D=-8&tags=Fundamentals&beta=false) - Easiest level problems
+- [Codewars 7 kyu Python Problems](https://www.codewars.com/kata/search/python?q=&r%5B%5D=-7&tags=Fundamentals&beta=false) - Slightly more challenging
+- [LeetCode Easy Python Problems](https://leetcode.com/problemset/all/?difficulty=Easy&listId=wpwgkgt) - Filter by Python and "Easy" difficulty
+
+## 🔍 Interactive Learning Tools
+
+### Visualization and Quick References
+- [Python Tutor](http://pythontutor.com/) - Visualize code execution step-by-step
+- [Python Cheat Sheet](https://www.python-cheatsheet.org/) - Concise syntax reference
+- [Real Python's Python Tricks](https://realpython.com/python-tricks/) - Short, digestible articles
+
+## 📖 Essential Reading
+
+### Comprehensive Resources
+- [Python for Data Analysis (3rd Edition)](https://wesmckinney.com/book/) by Wes McKinney - The definitive guide to data manipulation with Python, pandas, and NumPy
+- [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/) - Practical programming for total beginners
+- [A Gallery of Interesting Jupyter Notebooks](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks) - Curated collection of educational notebooks
+
+## 🎨 Fun & Visual Projects
+
+### Creative Coding
+- [Python Graph Gallery](https://python-graph-gallery.com/) - Simple plotting examples with matplotlib
+- [Turtle Graphics Examples](https://docs.python.org/3/library/turtle.html) - Quick, visual programming with immediate results
+
+---
+
+<div style="text-align: center; margin-top: 40px; font-style: italic;">
+Happy Learning! 🐍✨
+</div>

@@ -59,5 +59,10 @@ a {
 </div>
 :::
 
+<div style="text-align: center; margin-top: 40px; padding: 20px; background-color: rgba(0,0,0,0.4); border-radius: 10px;">
+🐍 <a href="resources.html" target="_blank">ADDITIONAL PYTHON RESOURCES</a> 🐍<br>
+<span style="font-size: 0.9em; font-style: italic;">Practice exercises and learning materials for self-paced exploration</span>
+</div>
+
 
 
