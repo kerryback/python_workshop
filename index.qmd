@@ -36,7 +36,7 @@ a {
 
 # JGSB Python Workshop<br>September 6, 2025
 <br>
-<div style="margin-top: 40px; padding: 20px; background-color: rgba(0,0,0,0.4); border-radius: 10px;">
+<div style="margin-top: 40px; padding: 20px; background-color: rgba(0,0,0,0.3); border-radius: 10px;">
 <div style="text-align: center;">🐍 PRIMARY RESOURCES 🐍<br></div>
 
 - <a href="slides.html" target="_blank">Slides</a>
@@ -45,7 +45,7 @@ a {
 
 <br>
 
-<div style="margin-top: 40px; padding: 20px; background-color: rgba(0,0,0,0.4); border-radius: 10px;">
+<div style="margin-top: 40px; padding: 20px; background-color: rgba(0,0,0,0.3); border-radius: 10px;">
 <div style="text-align: center;">🐍 ALTERNATIVE TO GOOGLE DRIVE 🐍<br></div>
 
 ::: {.two-columns}
@@ -73,7 +73,7 @@ a {
 :::
 </div>
 
-<div style="text-align: center; margin-top: 40px; padding: 20px; background-color: rgba(0,0,0,0.4); border-radius: 10px;">
+<div style="text-align: center; margin-top: 40px; padding: 20px; background-color: rgba(0,0,0,0.3); border-radius: 10px;">
 🐍 ADDITIONAL PYTHON RESOURCES 🐍<br>
 <span style="font-size: 0.9em; font-style: italic;"><a href="resources.html" target="_blank">Practice exercises and learning materials for self-paced exploration</a></span>
 </div>
