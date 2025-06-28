@@ -5,7 +5,7 @@ title-slide-attributes:
   data-background-position: top
   data-background-opacity: "1.0"
 date: September 6, 2025
-author: <b>Directed by Kerry Back<br>https://workshop.kerryback.com<br>Rice University</b>
+author: <b>Directed by Kerry Back<br>https://workshop.kerryback.com<br>Rice University></b>
 execute:
   echo: false
   jupyter: python3
@@ -26,53 +26,50 @@ format:
     code-line-numbers: false
 ---
 
+
 ## Workshop Materials
 
-- Go to https://workshop.kerryback.com 
-- Open the slide deck so you can access the links in it 
-- Zip file will be discussed in a moment
+Slides and other resources are at https://workshop.kerryback.com 
 
-## Working/Stuck/Ready polls
 
 
 ## Why Python?
 
 
-- Data analysis, including machine learning 
+- Data analysis
 - Automate things 
 - Example from MGMT 675: [Cost of Equity App](https://costofequity.koyeb.app/) 
 - The app is written entirely in python. 
 - [**All of the python code was written by AI.**]{style="color: tomato;"} 
 
+## Plan for the Workshop
 
+- We will work through notebooks together 
+- Respond to the Working/Stuck/Ready poll if you get stuck or when you finish a notebook
+- When everyone is finished, we will discuss and then move on together to the next notebook
+- <span style="color: tomato; font-weight: bold;">Important</span>: Our goal is to learn [what can be done]{style="color: tomato;"} and how python works [in general]{style="color: tomato;"}.  It is [*not our goal to memorize]{style="color: tomato;"} exactly how to do all of the things we will cover.  
+- We can always ask AI to supply the details.
 
 
 ## Get Started
 
 - You need a Google account.
 - You need to [install Google Drive](https://support.google.com/drive/answer/10838124?hl=en#d4d_install)  
-- Drive should appear as a folder on your laptop.  In Windows Explorer, it is under **This PC**
-- Create a new folder **This PC\Google Drive\My Drive\Workshop**
-- Download the zip file linked on [workshop.kerryback.com](https://workshop.kerryback.com) to **This PC\Google Drive\My Drive**.
-- Extract all of the files to **This PC\Google Drive\My Drive\Workshop**
-- Respond to the Working/Stuck/Ready poll when you are ready to move on or if you are stuck.
+- Drive should appear as a folder on your laptop.  In Windows Explorer, it is under `This PC`
+- Create a new folder `This PC\Google Drive\My Drive\Workshop`
+- Download the zip file linked on [workshop.kerryback.com](https://workshop.kerryback.com) to `This PC\Google Drive\My Drive`
+- Extract all of the files to `This PC\Google Drive\My Drive\Workshop`
 
 ## Open Colab
 
 - Go to [https://colab.research.google.com](https://colab.research.google.com)
-- You should be looking at an **Open Notebook** screen
-- Choose **Google Drive**
-- Find and open **Part1_Colab.ipynb**
-- If for any reason you are unable to use Google Drive, open **Part1 Colab** at [workshop.kerryback.com](https://workshop.kerryback.com)
+- You should be looking at an Open Notebook screen
+- Choose Google Drive
+- Find and open `Part1_Colab.ipynb`
+- If for any reason you are unable to use Google Drive, open `Part1 Colab` at [workshop.kerryback.com](https://workshop.kerryback.com)
 - Respond to the Working/Stuck/Ready poll when you are ready to move on or if you are stuck
 
-## Plan for the Workshop
 
-- This is the last slide
-- We will work through notebooks together 
-- Respond to the Working/Stuck/Ready poll if you get stuck or when you finish a notebook
-- Each notebook suggests things you can do while waiting for others to finish 
-- When everyone is finished, we will discuss and then move on together to the next notebook
 
 
 
