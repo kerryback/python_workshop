@@ -47,12 +47,13 @@ Slides and other resources are at https://workshop.kerryback.com
 - We will work through notebooks together 
 - Respond to the Working/Stuck/Ready poll if you get stuck or when you finish a notebook
 - When everyone is finished, we will discuss and then move on together to the next notebook
-- <span style="color: tomato; font-weight: bold;">Important</span>: Our goal is to learn [what can be done]{style="color: tomato;"} and how python works [in general]{style="color: tomato;"}.  It is [*not our goal to memorize]{style="color: tomato;"} exactly how to do all of the things we will cover.  
+- <span style="color: tomato; font-weight: bold;">Important</span>: Our goal is to learn [what can be done]{style="color: tomato;"} and how python works [in general]{style="color: tomato;"}.  It is [not our goal to remember exactly]{style="color: tomato;"} how to do all of the things we will cover.  
 - We can always ask AI to supply the details.
 
 
 ## Get Started
 
+- Select Working on the [Working/Stuck/Ready poll](https://workshop.kerryback.com)
 - You need a Google account.
 - You need to [install Google Drive](https://support.google.com/drive/answer/10838124?hl=en#d4d_install)  
 - Drive should appear as a folder on your laptop.  In Windows Explorer, it is under `This PC`
