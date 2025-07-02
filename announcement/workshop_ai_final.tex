@@ -1,0 +1,62 @@
+\documentclass[11pt]{scrartcl}
+\usepackage{graphicx}
+\usepackage{hyperref}
+\hypersetup{
+    colorlinks=true,
+    linkcolor=blue,
+    urlcolor=blue,
+    citecolor=blue
+}
+\usepackage{geometry}
+\usepackage{enumitem, xcolor}
+
+\geometry{margin=1.25in, top=0.5in}
+
+\begin{document}
+\thispagestyle{empty}
+\begin{center}
+    \includegraphics[width=0.5\textwidth]{RiceBusiness-transparent-logo-sm.png}
+\end{center}
+
+\begin{center}
+\Large \textbf{JGSB Learn AI Workshop}
+
+\end{center}
+
+\vskip \baselineskip
+
+This is a one-day workshop with an optional additional half day. The first day will cover both sides of AI: classical machine learning, and generative AI. Both topics are essential for managers to understand. Participants will learn by doing -- using AI to learn AI -- to move up the learning curve quickly.
+
+Beyond discussing what machine learning is, and where it is used, the workshop will cover the following topics. For each topic, participants will use generative AI to create working examples in python.
+
+\begin{itemize}[itemsep=0ex]
+\item Neural network concept and architectures
+\item Training and testing neural networks and tuning network structures
+\item Tree models (random forests, gradient boosting)
+\item Goodness-of-fit measures for predicting continuous variables
+\item Classification diagnostics: confusion matrix, ROC curve, type I and type II errors
+\end{itemize}
+
+Generative AI was spawned by the development of a new neural network architecture by Google researchers in 2017. They called the new architecture a ``transformer,'' leading to GPT = Generative Pre-trained Transformer. When trained on text data and when containing a large number of parameters, these models are called Large Language Models (LLMs). So, the study of neural networks leads naturally to the study of generative AI. Of course, what we want to know about LLMs is what we can do with them, from the corporate perspective and for personal productivity.
+
+One application is automation. The workshop will explore current AI tools for building apps to automate activities. This includes building apps that themselves use AI via APIs. Participants will build a working app that (i) downloads data from a SQL database, (ii) calculates summary statistics and generates figures, and (iii) sends the summary statistics and figures to an LLM to produce a written report.
+
+Participants will also learn to build RAG (retrieval-augmented generation) systems. These are standard and important elements of corporate implementations. A RAG chatbot answers questions based on what the developer has previous uploaded to a database -- for example, company manuals, reports, policies, etc. -- rather than relying on its general training. Here is an example of a RAG chatbot that answers questions based on textbook materials: \href{https://chat.derivative-securities.org}{chat.derivative-securities.org}. It was created entirely by chatting in natural language with an AI tool.
+
+Through these projects, participants will gain experience in collaborating with AI, which could be the most important aspect of the workshop. Frequently, the most fruitful way to use AI is to treat it as a colleague rather than trying to engineer a precise prompt to produce a specific result. When tackling almost any project, we can ask AI for advice, we can ask it to compare or check work, and we can assign it pieces of the project that we prefer not to do ourselves. It can simultaneously be a mentor, peer, and assistant. It is important to learn to make effective use of this tremendous new resource.
+
+The workshop will be directed by Kerry Back, J. Howard Creekmore Professor of Finance and Professor of Economics, Rice University (\href{https://kerryback.substack.com}{kerryback.substack.com}). Participants will gain hands-on exposure to \href{https://colab.research.google.com/#scrollTo=Wf5KrEb6vrkR}{Colab}, 
+\href{https://julius.ai/}{Julius}, 
+\href{https://openai.com/api/}{OpenAI API}, 
+\href{https://replit.com/}{Replit}, 
+\href{https://windsurf.com/}{Windsurf}, and 
+\href{https://www.anthropic.com/claude-code}{Claude Code}.
+
+\section*{Optional Half Day}
+
+The primary purpose of this half day is to provide participants with additional hands-on practice of the concepts covered in the first day of the AI workshop, to reinforce and cement their learning.  Participants will build an app of their own design to automate some activity that they do regularly.  
+
+Participants will also learn to deploy apps in the cloud and via Docker containers.  The capstone of the 1.5 day workshop will be for participants to deploy the app they have built.  This half day will also be directed by Professor Back.
+
+\end{document}
+

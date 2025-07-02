@@ -1,0 +1,23 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(curl:*)",
+      "Bash(rm:*)",
+      "Bash(python:*)",
+      "Bash(grep:*)",
+      "Bash(pip install:*)",
+      "Bash(rg:*)",
+      "Bash(sed:*)",
+      "mcp__ide__executeCode",
+      "Bash(ls:*)",
+      "Bash(cp:*)",
+      "Bash(chmod:*)",
+      "Bash(source:*)",
+      "Bash(find:*)",
+      "Bash(export GOOGLE_CLOUD_PROJECT_ID=\"edgar-downloader\")",
+      "Bash(pkill:*)",
+      "Bash(cat:*)"
+    ],
+    "deny": []
+  }
+}
